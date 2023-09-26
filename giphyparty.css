@@ -1,0 +1,28 @@
+body { 
+    background-image: url(https://wallpapers.com/images/hd/he-man-sings-rainbow-meme-njv94rwllan0l07h.webp);
+}
+
+h1 { 
+font-size: 100px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: 800;
+color: #b366ff;
+padding: 2%;
+border-style: ridge;
+border-width: 35px;
+border-color: #ff66d9;
+
+}
+
+.one {
+    background-color: #b366ff;
+    color: #66ffff
+    font-family: cambria; 
+    
+}
+
+.two {
+    background-color: #ff6666;
+   
+
+}
